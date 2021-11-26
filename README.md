@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋, its me Pema Dorji Sherpa
 
-<!--
-**PemaRekdenDorjee/PemaRekdenDorjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ ** Rookie web developer who love to watch anime and read manga**  ✨
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on account system
+- 🌱 I’m currently learning account
+- 👯 I’m looking to collaborate on any project 
+- 🤔 I’m looking for help with fronted UI designer as I am lazy as ass to do myself
+- 💬 Ask me about anything what in your mind
+- 📫 How to reach me: pemarekdendorjee@gmail.com
+- 😄 Pronouns: Sherpa
+- ⚡ Fun fact: I love cooking (but I dont take meat) and I run a restraunt 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pemarekdendorjee&count_private=true)
